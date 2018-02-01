@@ -52,3 +52,13 @@ D:\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csproj.GenerateResour
 D:\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csproj.CoreCompileInputs.cache
 D:\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.exe
 D:\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.pdb
+D:\repos\get_2GIS_base\get_2GIS_base\bin\Debug\get_2GIS_base.exe
+D:\repos\get_2GIS_base\get_2GIS_base\bin\Debug\get_2GIS_base.pdb
+D:\repos\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csprojResolveAssemblyReference.cache
+D:\repos\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csproj.ResolveComReference.cache
+D:\repos\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.Form1.resources
+D:\repos\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.Properties.Resources.resources
+D:\repos\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csproj.GenerateResource.Cache
+D:\repos\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csproj.CoreCompileInputs.cache
+D:\repos\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.exe
+D:\repos\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.pdb

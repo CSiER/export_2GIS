@@ -155,7 +155,7 @@ namespace get_2GIS_base
 
         void bgWorker_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
         {
-            progressBar1.Maximum = 100;
+            progressBar1.Value = 100;
             button1.Text = "Выгрузить в файл";
         }
     }

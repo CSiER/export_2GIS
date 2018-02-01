@@ -1,0 +1,54 @@
+C:\Documents and Settings\t0ra.TS222222\Local Settings\Application Data\Temporary Projects\get_2GIS_base\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\t0ra.TS222222\Local Settings\Application Data\Temporary Projects\get_2GIS_base\obj\x86\Debug\Interop.GrymCore.dll
+C:\Documents and Settings\t0ra.TS222222\Local Settings\Application Data\Temporary Projects\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csproj.ResolveComReference.cache
+C:\Documents and Settings\t0ra.TS222222\Local Settings\Application Data\Temporary Projects\get_2GIS_base\obj\x86\Debug\get_2GIS_base.Form1.resources
+C:\Documents and Settings\t0ra.TS222222\Local Settings\Application Data\Temporary Projects\get_2GIS_base\obj\x86\Debug\get_2GIS_base.Properties.Resources.resources
+C:\Documents and Settings\t0ra.TS222222\Local Settings\Application Data\Temporary Projects\get_2GIS_base\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\t0ra.TS222222\Local Settings\Application Data\Temporary Projects\get_2GIS_base\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\t0ra.TS222222\Local Settings\Application Data\Temporary Projects\get_2GIS_base\bin\Debug\get_2GIS_base.exe
+C:\Documents and Settings\t0ra.TS222222\Local Settings\Application Data\Temporary Projects\get_2GIS_base\bin\Debug\get_2GIS_base.pdb
+C:\Documents and Settings\t0ra.TS222222\Local Settings\Application Data\Temporary Projects\get_2GIS_base\bin\Debug\Interop.GrymCore.dll
+C:\Documents and Settings\t0ra.TS222222\Local Settings\Application Data\Temporary Projects\get_2GIS_base\obj\x86\Debug\get_2GIS_base.exe
+C:\Documents and Settings\t0ra.TS222222\Local Settings\Application Data\Temporary Projects\get_2GIS_base\obj\x86\Debug\get_2GIS_base.pdb
+C:\Documents and Settings\t0ra.TS222222\мои документы\visual studio 2010\Projects\get_2GIS_base\get_2GIS_base\obj\x86\Debug\Interop.GrymCore.dll
+C:\Documents and Settings\t0ra.TS222222\мои документы\visual studio 2010\Projects\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csproj.ResolveComReference.cache
+C:\Documents and Settings\t0ra.TS222222\мои документы\visual studio 2010\Projects\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.exe
+C:\Documents and Settings\t0ra.TS222222\мои документы\visual studio 2010\Projects\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.pdb
+C:\Documents and Settings\t0ra.TS222222\мои документы\visual studio 2010\Projects\get_2GIS_base\get_2GIS_base\bin\Debug\get_2GIS_base.exe
+C:\Documents and Settings\t0ra.TS222222\мои документы\visual studio 2010\Projects\get_2GIS_base\get_2GIS_base\bin\Debug\get_2GIS_base.pdb
+C:\Documents and Settings\t0ra.TS222222\мои документы\visual studio 2010\Projects\get_2GIS_base\get_2GIS_base\bin\Debug\Interop.GrymCore.dll
+C:\Documents and Settings\t0ra.TS222222\мои документы\visual studio 2010\Projects\get_2GIS_base\get_2GIS_base\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\t0ra.TS222222\мои документы\visual studio 2010\Projects\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.Form1.resources
+C:\Documents and Settings\t0ra.TS222222\мои документы\visual studio 2010\Projects\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.Properties.Resources.resources
+C:\Documents and Settings\t0ra.TS222222\мои документы\visual studio 2010\Projects\get_2GIS_base\get_2GIS_base\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\t0ra.TS222222\мои документы\visual studio 2010\Projects\get_2GIS_base\get_2GIS_base\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andriyanov_av\Desktop\get_2GIS_base\get_2GIS_base\obj\x86\Debug\Interop.GrymCore.dll
+C:\Users\Andriyanov_av\Desktop\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csproj.ResolveComReference.cache
+C:\Users\Andriyanov_av\Desktop\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.exe
+C:\Users\Andriyanov_av\Desktop\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.pdb
+C:\Users\Andriyanov_av\Desktop\get_2GIS_base\get_2GIS_base\bin\Debug\get_2GIS_base.exe
+C:\Users\Andriyanov_av\Desktop\get_2GIS_base\get_2GIS_base\bin\Debug\get_2GIS_base.pdb
+C:\Users\Andriyanov_av\Desktop\get_2GIS_base\get_2GIS_base\bin\Debug\Interop.GrymCore.dll
+C:\Users\Andriyanov_av\Desktop\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.Form1.resources
+C:\Users\Andriyanov_av\Desktop\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.Properties.Resources.resources
+C:\Users\Andriyanov_av\Desktop\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csproj.GenerateResource.Cache
+C:\Users\CSiER\Desktop\ГИС ЖКХ статья\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csproj.ResolveComReference.cache
+C:\Users\CSiER\Desktop\ГИС ЖКХ статья\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.Form1.resources
+C:\Users\CSiER\Desktop\ГИС ЖКХ статья\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.Properties.Resources.resources
+C:\Users\CSiER\Desktop\ГИС ЖКХ статья\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csproj.GenerateResource.Cache
+C:\Users\CSiER\Desktop\ГИС ЖКХ статья\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csproj.CoreCompileInputs.cache
+C:\Users\CSiER\Desktop\ГИС ЖКХ статья\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.exe
+C:\Users\CSiER\Desktop\ГИС ЖКХ статья\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.pdb
+C:\Users\CSiER\Desktop\ГИС ЖКХ статья\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csprojResolveAssemblyReference.cache
+C:\Users\CSiER\Desktop\ГИС ЖКХ статья\get_2GIS_base\get_2GIS_base\bin\Debug\get_2GIS_base.exe
+C:\Users\CSiER\Desktop\ГИС ЖКХ статья\get_2GIS_base\get_2GIS_base\bin\Debug\get_2GIS_base.pdb
+D:\get_2GIS_base\get_2GIS_base\bin\Debug\get_2GIS_base.exe
+D:\get_2GIS_base\get_2GIS_base\bin\Debug\get_2GIS_base.pdb
+D:\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csprojResolveAssemblyReference.cache
+D:\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csproj.ResolveComReference.cache
+D:\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.Form1.resources
+D:\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.Properties.Resources.resources
+D:\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csproj.GenerateResource.Cache
+D:\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.csproj.CoreCompileInputs.cache
+D:\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.exe
+D:\get_2GIS_base\get_2GIS_base\obj\x86\Debug\get_2GIS_base.pdb
